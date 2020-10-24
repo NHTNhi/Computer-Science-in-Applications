@@ -3474,7 +3474,6 @@ https://www.coursera.org/learn/liderazgo-educativo
 https://www.coursera.org/learn/android-app-architecture
 https://www.coursera.org/learn/collaborative-robot-safety
 https://www.coursera.org/learn/diving-in-python
-https://www.coursera.org/learn/advanced-clinical-data-science
 https://www.coursera.org/learn/wharton-qiye-jinrong
 https://www.coursera.org/learn/soulbeliefs2
 https://www.coursera.org/learn/introduction-genomics
