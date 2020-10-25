@@ -1,3 +1,10 @@
+course_urls.txt
+Earlier this month
+Oct 11
+
+Thành Lê Ngọc uploaded an item
+Text
+course_urls.txt
 https://www.coursera.org/learn/gamification
 https://www.coursera.org/learn/missing-data
 https://www.coursera.org/learn/cs-fundamentals-3
@@ -3474,6 +3481,7 @@ https://www.coursera.org/learn/liderazgo-educativo
 https://www.coursera.org/learn/android-app-architecture
 https://www.coursera.org/learn/collaborative-robot-safety
 https://www.coursera.org/learn/diving-in-python
+https://www.coursera.org/learn/advanced-clinical-data-science
 https://www.coursera.org/learn/wharton-qiye-jinrong
 https://www.coursera.org/learn/soulbeliefs2
 https://www.coursera.org/learn/introduction-genomics
